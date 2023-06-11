@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+emoji = "==1.7"
+clarifai = "==2.6.2"
+instapy2 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
